@@ -51,6 +51,8 @@ A telegram bot list collection
 |---|---|
 | [FnConvertBot](https://telegram.me/FnConvertBot) | Telegram file or media converter with permanent thumbnail saving support |
 | [Converter_ProBot](https://t.me/Converter_ProBot) | |
+| [BXConverterBot](https://t.me/BXConverterBot) | |
+
 
 ## Rename Bots
 
@@ -197,6 +199,7 @@ A telegram bot list collection
 | Bot | Description |
 |---|---|
 | [SessionStringGenBot](https://t.me/SessionStringGenBoT) | |
+| [StringSessionBXBot](https://t.me/StringSessionBXBot) | |
 
 ## Song Bots
 
