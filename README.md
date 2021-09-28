@@ -50,13 +50,18 @@ A telegram bot list collection
 | Bot | Description |
 |---|---|
 | [FnConvertBot](https://telegram.me/FnConvertBot) | Telegram file or media converter with permanent thumbnail saving support |
-| [Converter_ProBot](https://t.me/Converter_ProBot) | |
+| [Converter_ProBot](https://t.me/Converter_ProBot) | A Telegram Bot To Convert File To Video And Video To File With Custum Thumbnail Support |
 
 ## Rename Bots
 
 | Bot | Description |
 |---|---|
 | [FnRenameBot](https://telegram.me/FnRenameBot) | Telegram file or media rename bot with permanent thumbnail saving support |
+| [RenameBXBot](https://telegram.me/RenameBXBot) | A Telegram Bot To Rename Files With Custum Thumbnail Support |
+| [BXRenameBot](https://telegram.me/BXRenameBot) | A Telegram Bot To Rename Files With Custum Thumbnail Support |
+| [BXRenamerBot](https://telegram.me/BXRenamerBot) | A Telegram Bot To Rename Files With Custum Thumbnail Support |
+| [RenameV1Bot](https://telegram.me/RenameV1Bot) | A Telegram Bot To Rename Files With Custum Thumbnail Support |
+| [RenameV2Bot](https://telegram.me/RenameV2Bot) | A Telegram Bot To Rename Files With Custum Thumbnail Support |
 | [Renamer_ProBot](https://t.ME/Renamer_ProBot) | |
 | [mwk_renamebot](https://t.me/mwk_renamebot) | MwK Rename + Coverter Bot v1 |
 | [mwk_rename2bot](https://t.me/mwk_rename2bot) | Rename / Conversion Bot V2 |
